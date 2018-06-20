@@ -1,3 +1,32 @@
+# React Workshop
+
+N3XTCODER + Fitogram  
+June 20, 2018 Cologne
+
+## Get Started
+
+[Create React App](https://github.com/react-community/create-react-app) is a quickstart tool that simplifies setup of React projects.
+
+* Install [node.js 9 or 10](https://nodejs.org/en/) 
+* Git clone this repo
+* `cd` into the repo
+* `npm install`
+* `npm start`
+
+You can also use [`yarn`](https://yarnpkg.com/lang/en/) instead of `npm`.
+
+
+## Useful links
+
+* https://reactjs.org/
+
+
+## API endpoints
+* 
+
+
+# Create React App Readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
