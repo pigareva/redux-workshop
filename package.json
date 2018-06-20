@@ -4,9 +4,9 @@
   "private": true,
   "dependencies": {
     "mobx": "^5.0.3",
+    "mobx-react": "^5.2.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-mobx": "^0.0.3",
     "react-redux": "^5.0.7",
     "react-scripts": "1.1.4",
     "redux": "^4.0.0"
