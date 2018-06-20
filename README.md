@@ -5,7 +5,7 @@ June 20, 2018 Cologne
 
 ## Get Started
 
-[Create React App](https://github.com/react-community/create-react-app) is a quickstart tool that simplifies setup of React projects.
+[Create React App](https://github.com/facebook/create-react-app) is a quickstart tool that simplifies setup of React projects.
 
 * Install [node.js 9 or 10](https://nodejs.org/en/) 
 * Git clone this repo
