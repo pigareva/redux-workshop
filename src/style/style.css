@@ -1,0 +1,17 @@
+.list-flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+
+.item-flex-block {
+  width: 250px;
+  margin-bottom: 20px;
+  align-content: space-around;
+  border: darkgray 2px solid;
+  background: lightgray;
+}
+
+
